@@ -1,7 +1,10 @@
 Las listas
 
 Tipo compuesto de dato que puede almacenar distintos valores (llamados ítems) ordenados entre [ ] y separados con comas
-
+numeros = [1,2,3,4]
+datos = [4,"Una cadena",-15,3.14,"Otra cadena"]
 
 Tuplas: 
-  
+
+Son unas colecciones parecidas a las listas, con la peculiaridad de que son inmutables.
+tupla = (100,"Hola",[1,2,3],-50)
